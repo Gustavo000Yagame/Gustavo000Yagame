@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Cardoso
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Gustavo Cardoso Guaresi, tenho 17 anos e sou natural do Santa Catarina. Atualmente estou cursando o ensino medio, com o curso técnico (ADS). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAI.
 
