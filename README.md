@@ -4,7 +4,6 @@
 
 Me chamo Gustavo Cardoso Guaresi, tenho 17 anos e sou natural de Santa Catarina. Atualmente, estou cursando o Ensino Médio e curso técnico em Análise e Desenvolvimento de Sistemas (ADS) no SENAI..
 
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -41,30 +40,32 @@ Me chamo Gustavo Cardoso Guaresi, tenho 17 anos e sou natural de Santa Catarina.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Vue.js"
+    title="Vue.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -84,4 +85,3 @@ Me chamo Gustavo Cardoso Guaresi, tenho 17 anos e sou natural de Santa Catarina.
 
 <br/>
 <br/>
-
