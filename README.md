@@ -29,13 +29,7 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=dracula&area=true&hide_border=true" width="95%" alt="activity graph" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavo000Yagame&theme=dracula&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
-</div>
-
-###
 
 <img align="right" height="160" src="https://github.com/user-attachments/assets/6bbbc93d-5620-4ee4-a0db-f1420d8945c4" alt="anime gif" />
 
