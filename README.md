@@ -43,7 +43,7 @@
   <img width="12" />
 
   <!-- Tailwind -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwind logo" /> />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwind logo" /> 
   <img width="12" />
 
   <!-- Bootstrap -->
