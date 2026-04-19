@@ -23,13 +23,6 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="170" alt="streak stats" />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=dracula&area=true&hide_border=true" width="95%" alt="activity graph" />
-</div>
-
-
 
 <img align="right" height="160" src="https://github.com/user-attachments/assets/6bbbc93d-5620-4ee4-a0db-f1420d8945c4" alt="anime gif" />
 
@@ -107,3 +100,11 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=dracula&area=true&hide_border=true" width="95%" alt="activity graph" />
+</div>
+
+###
