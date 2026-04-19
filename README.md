@@ -2,11 +2,30 @@
 
 ###
 
+<!-- 📊 STATS -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&theme=dracula&hide_rank=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo000Yagame&layout=compact&langs_count=8&theme=dracula" height="150" />
+</div>
+
+###
+
+<!-- 🔥 STREAK -->
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula" />
+</div>
+
+###
+
+<!-- 📈 ACTIVITY GRAPH -->
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=dracula" />
+</div>
+
+###
+
+<!-- 🐍 SNAKE -->
+<div align="center">
   <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/output/snake.svg" />
 </div>
 
