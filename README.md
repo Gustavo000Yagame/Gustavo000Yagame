@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo000Yagame&layout=compact&langs_count=8&theme=dracula" height="150" />
   <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=dracula" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustavo000Yagame&theme=dracula" />
+  <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/output/snake.svg" />
 </div>
 
 ###
