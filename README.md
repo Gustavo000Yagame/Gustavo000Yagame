@@ -13,7 +13,7 @@ Passionate about building web applications, backend systems, and technology-driv
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&include_all_commits=true&&theme=dracula&hide_rank=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_rank=true" height="160" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo000Yagame&layout=compact&langs_count=8&theme=dracula" height="160" alt="Top languages" />
 </div>
 
