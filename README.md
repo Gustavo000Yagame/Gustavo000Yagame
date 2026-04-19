@@ -24,15 +24,10 @@ Passionate about building web applications, backend systems, and technology-driv
 </div>
 
 
-<div align="right">
   <img src="https://github.com/user-attachments/assets/6bbbc93d-5620-4ee4-a0db-f1420d8945c4"
        height="160"
        style="display:block; margin-bottom:10px;" />
 
-  <img src="https://static.wikia.nocookie.net/hxh/images/9/91/Killua_GI.jpg/revision/latest?cb=20140926034959&path-prefix=pt"
-       height="160"
-       style="display:block;" />
-</div>
 
 <h3 align="left">🚀 Frontend</h3>
 <div align="left">
