@@ -25,8 +25,7 @@ Passionate about building web applications, backend systems, and technology-driv
 
 
 <img align="right" height="160" src="https://github.com/user-attachments/assets/6bbbc93d-5620-4ee4-a0db-f1420d8945c4" alt="anime gif" />
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f579a600-f3ad-446f-acb4-a6ecefdf3ff4" />
+<img align="right" height="160" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" alt="pok gif" />
 
 
 <h3 align="left">🚀 Frontend</h3>
