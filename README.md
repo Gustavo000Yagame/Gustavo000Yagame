@@ -26,6 +26,9 @@ Passionate about building web applications, backend systems, and technology-driv
 
 <img align="right" height="160" src="https://github.com/user-attachments/assets/6bbbc93d-5620-4ee4-a0db-f1420d8945c4" alt="anime gif" />
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f579a600-f3ad-446f-acb4-a6ecefdf3ff4" />
+
+
 <h3 align="left">🚀 Frontend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
