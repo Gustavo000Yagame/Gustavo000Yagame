@@ -110,7 +110,7 @@ Passionate about building web applications, backend systems, and technology-driv
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/users/SEU_ID" target="_blank">
+  <a href="https://discord.gg/S7HMhASHw" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
@@ -118,7 +118,7 @@ Passionate about building web applications, backend systems, and technology-driv
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="[in/gustavo-cardoso-guaresi-5381803b5](https://www.linkedin.com/in/gustavo-cardoso-guaresi-5381803b5/)" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-cardoso-guaresi-5381803b5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
