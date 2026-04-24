@@ -114,7 +114,7 @@ Passionate about building web applications, backend systems, and technology-driv
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="gustavocardosoguaresi@gmail.com">
+  <a href="mailto:gustavocardosoguaresi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
