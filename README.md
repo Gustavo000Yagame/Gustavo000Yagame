@@ -20,7 +20,7 @@ Passionate about building web applications, backend systems, and technology-driv
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="170" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="160" alt="streak stats" />
 </div>
 
 
