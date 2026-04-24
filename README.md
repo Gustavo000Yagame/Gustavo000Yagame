@@ -102,7 +102,7 @@ Passionate about building web applications, backend systems, and technology-driv
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/seu_usuario" target="_blank">
+  <a href="https://www.instagram.com/yagame01/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
