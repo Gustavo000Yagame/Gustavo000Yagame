@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Gustavo Cardoso Guaresi, a Full Stack Developer from Brazil.</h2>
+<h2 align="left">Hi 👋! I'm Gustavo Cardoso Guaresi, a Full Stack Developer from Brazil.</h2> 
 
 <p align="left">
 Passionate about building web applications, backend systems, and technology-driven projects.
