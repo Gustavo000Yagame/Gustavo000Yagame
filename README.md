@@ -8,7 +8,7 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </div>
 
-
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="160" alt="streak stats" />
 </div>
