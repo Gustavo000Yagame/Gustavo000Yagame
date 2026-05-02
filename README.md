@@ -20,7 +20,6 @@ Passionate about building web applications, backend systems, and technology-driv
 <img align="right" height="160" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" alt="pokemon gif" />
 <br>
 <br>
-<br>
 <h3 align="left">🚀 Frontend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
@@ -41,7 +40,7 @@ Passionate about building web applications, backend systems, and technology-driv
 </div>
 <br>
 <br>
-<br>
+
 <h3 align="left">⚙️ Backend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
@@ -58,7 +57,7 @@ Passionate about building web applications, backend systems, and technology-driv
 </div>
 <br>
 <br>
-<br>
+
 <h3 align="left">🗄️ Database</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
@@ -69,7 +68,8 @@ Passionate about building web applications, backend systems, and technology-driv
   <img width="10" />
   <img src="https://img.icons8.com/color/512/supabase.png" height="35"/>
 </div>
-
+<br>
+<br>
 <h3 align="left">🛠️ Tools & Others</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
@@ -86,7 +86,7 @@ Passionate about building web applications, backend systems, and technology-driv
 </div>
 <br>
 <br>
-<br>
+
 <div align="left">
   <a href="https://youtube.com/seu_canal" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
