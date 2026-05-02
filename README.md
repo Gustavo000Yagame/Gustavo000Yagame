@@ -4,32 +4,20 @@
 Passionate about building web applications, backend systems, and technology-driven projects.
 </p>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&count_private=true&theme=dracula&hide_rank=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gustavo000Yagame&layout=compact&langs_count=8&theme=dracula" height="160"/>
 </div>
 
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="160" alt="streak stats" />
 </div>
 
----
-
 <img align="right" height="160" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" alt="pokemon gif" />
-
-<!-- Removido o gif quebrado do GitHub assets -->
-
----
 
 <h3 align="left">🚀 Frontend</h3>
 <div align="left">
@@ -50,8 +38,6 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35"/>
 </div>
 
----
-
 <h3 align="left">⚙️ Backend</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
@@ -67,8 +53,6 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
 </div>
 
----
-
 <h3 align="left">🗄️ Database</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
@@ -79,8 +63,6 @@ Passionate about building web applications, backend systems, and technology-driv
   <img width="10" />
   <img src="https://img.icons8.com/color/512/supabase.png" height="35"/>
 </div>
-
----
 
 <h3 align="left">🛠️ Tools & Others</h3>
 <div align="left">
@@ -96,8 +78,6 @@ Passionate about building web applications, backend systems, and technology-driv
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35"/>
 </div>
-
----
 
 <div align="left">
   <a href="https://youtube.com/seu_canal" target="_blank">
