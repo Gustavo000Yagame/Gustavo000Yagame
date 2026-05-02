@@ -52,7 +52,7 @@ Passionate about building web applications, backend systems, and technology-driv
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35"/>
 </div>
-
+<br>
 <h3 align="left">🗄️ Database</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
