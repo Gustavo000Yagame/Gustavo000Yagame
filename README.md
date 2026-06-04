@@ -27,16 +27,6 @@ Passionate about building web applications, backend systems, and technology-driv
 
 <br>
 
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&bg_color=1F1D2E&title_color=FF4D94&text_color=FFFFFF&icon_color=FF9F43&border_color=6C63FF"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo000Yagame&layout=compact&bg_color=1F1D2E&title_color=FF4D94&text_color=FFFFFF&border_color=6C63FF"/>
-
-</div>
-
 ---
 
 ## 🚀 Technologies
@@ -59,21 +49,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo000Ya
 
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## ⏱️ Coding Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical"/>
 
 </div>
 
