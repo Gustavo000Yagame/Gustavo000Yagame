@@ -33,7 +33,11 @@ Passionate about building web applications, backend systems, and technology-driv
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,vue,ts,js,react,nodejs,express,python,cpp,postgres,mysql,mongodb,docker,linux,git,figma,arduino"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vue,java,spring,nodejs,express,python,cpp,postgres,mysql,mongodb,supabase,docker,linux,git,figma,arduino"/>
+
+<br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira"/>
 
 </div>
 
