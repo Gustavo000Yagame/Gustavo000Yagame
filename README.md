@@ -1,4 +1,4 @@
-```html
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 
 <h1 align="center">
@@ -133,4 +133,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-```
