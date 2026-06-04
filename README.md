@@ -1,22 +1,28 @@
 <div align="center">
   <h2>Hi 👋! I'm Gustavo Cardoso Guaresi, a Full Stack Developer from Brazil.</h2>
   <p>Passionate about building web applications, backend systems, and technology-driven projects.</p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20views&color=blue&style=flat" alt="profile views" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20views&color=blue&style=flat" alt="profile views" />
-  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="28" alt="streak stats" />
-</p>
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="160" alt="streak stats" />
+</div>
 
 ---
 
 ### 🏆 Minhas Conquistas
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" alt="pokemon gif" />
 
 <p align="left">
-  <img src="metrics.plugin.achievements.compact.svg" alt="Conquistas Compactas" /><br>
-  <img src="metrics.plugin.achievements.svg" alt="Conquistas Detalhadas" width="450" />
+  <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/main/metrics.plugin.achievements.compact.svg" alt="Conquistas Compactas" /><br><br>
+  <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/main/metrics.plugin.achievements.svg" alt="Conquistas Detalhadas" width="450" />
 </p>
+
+<br clear="right">
 
 ---
 
