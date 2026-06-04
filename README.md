@@ -30,15 +30,15 @@ Passionate about building web applications, backend systems, and technology-driv
 ---
 
 ## 🚀 Technologies
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vue,java,spring,nodejs,express,python,cpp,postgres,mysql,mongodb,supabase,docker,linux,git,figma,arduino"/>
 
+&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
-     height="42"
-     alt="jira"
-     style="vertical-align: middle;"/>
+     width="42"
+     alt="jira"/>
 
 </div>
 
