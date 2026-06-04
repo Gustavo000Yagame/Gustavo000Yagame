@@ -1,3 +1,4 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gustavo%20Cardoso%20Guaresi&fontSize=40"/>
 
 <div align="center">
@@ -53,6 +54,26 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo000Ya
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo000Yagame&theme=radical"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+## ⏱️ Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USUARIO_WAKATIME&theme=radical"/>
 
 </div>
 
