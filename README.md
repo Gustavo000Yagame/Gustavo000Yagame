@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5" height="160" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Gustavo000Yagame&theme=dracula&border_radius=5&mode=weekly" height="160" alt="streak stats" />
 </div>
 
 ---
@@ -17,10 +17,10 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif" alt="pokemon gif" />
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/main/metrics.plugin.achievements.compact.svg" alt="Conquistas Compactas" /><br><br>
-  <img src="https://raw.githubusercontent.com/Gustavo000Yagame/Gustavo000Yagame/main/metrics.plugin.achievements.svg" alt="Conquistas Detalhadas" width="450" />
-</p>
+<div>
+  <img src="./metrics.plugin.achievements.compact.svg" alt="Conquistas Compactas" onerror="this.style.display='none'" /><br><br>
+  <img src="./metrics.plugin.achievements.svg" alt="Conquistas Detalhadas" width="450" onerror="this.style.display='none'" />
+</div>
 
 <br clear="right">
 
