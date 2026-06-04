@@ -7,17 +7,17 @@
 
 <div align="center">
 
-<img height="170" alt="Gastly"
-src="https://cdnb.artstation.com/p/assets/images/images/050/676/119/original/eggefett-cubonerockef.gif?1655402413"/>
+<img height="170" alt="c"
+src="https://i.pinimg.com/originals/32/a6/88/32a6883c4d90ce18f01fb552f8418965.gif"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img height="180" alt="Haunter"
+<img height="180" alt="g"
 src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<img height="180" alt="Gengar"
+<img height="180" alt="s"
 src="https://clipart-library.com/image_gallery/n1582570.gif"/>
 
 </div>
