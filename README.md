@@ -38,7 +38,6 @@ Passionate about building web applications, backend systems, and technology-driv
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="48" alt="jira"/>
 
 </div>
-</div>
 
 ---
 
