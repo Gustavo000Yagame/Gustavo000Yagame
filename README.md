@@ -10,7 +10,11 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif"/>
+
+<img height="180" src="https://i.pinimg.com/originals/6f/02/17/6f0217fef9f9941b7c5ce600b64d84d3.gif"/>
+
+<img height="180" src="https://clipart-library.com/image_gallery/n1582570.gif"/>
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Gustavo Cardoso Guaresi</h1>
