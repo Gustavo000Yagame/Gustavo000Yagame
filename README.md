@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gustavo%20Cardoso%20Guaresi&fontSize=40"/>
 
 <div align="center">
@@ -25,6 +24,18 @@ Passionate about building web applications, backend systems, and technology-driv
   <img src="https://komarev.com/ghpvc/?username=Gustavo000Yagame&label=Profile%20Views&color=blue&style=for-the-badge"/>
 </div>
 
+<br>
+
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&bg_color=1F1D2E&title_color=FF4D94&text_color=FFFFFF&icon_color=FF9F43&border_color=6C63FF"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo000Yagame&layout=compact&bg_color=1F1D2E&title_color=FF4D94&text_color=FFFFFF&border_color=6C63FF"/>
+
+</div>
+
 ---
 
 ## 🚀 Technologies
@@ -37,21 +48,11 @@ Passionate about building web applications, backend systems, and technology-driv
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gustavo000Yagame&theme=dracula&row=2&column=4"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=github-dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo000Yagame&theme=radical"/>
 
 </div>
 
