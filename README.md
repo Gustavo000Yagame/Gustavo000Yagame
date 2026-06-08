@@ -60,8 +60,8 @@ Passionate about building web applications, backend systems, and technology-driv
 
 <div align="center">
 
-<a href="https://www.instagram.com/yagame01/">
-<img src="https://img.shields.io/badge/Instagram-E8405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/yagame6903753689584/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:gustavocardosoguaresi@gmail.com">
