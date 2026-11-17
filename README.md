@@ -87,8 +87,11 @@ I am looking for **internship or remote roles abroad**, especially in **Ireland*
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gustavo000Yagame&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo000Yagame&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gustavo000Yagame&theme=radical"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gustavo000Yagame&theme=radical"/>
+<br>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gustavo000Yagame&theme=radical"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gustavo000Yagame&theme=radical"/>
 
 <br>
 
