@@ -1,8 +1,8 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Gustavo%20Cardoso%20Guaresi&fontSize=40"/>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=Gustavo%20Cardoso%20Guaresi&fontSize=44&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Backend%20%26%20Full%20Stack&descSize=18&descAlignY=60"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=50&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Vue.js+%7C+React+%7C+TypeScript;Competitive+Programming+%26+Hackathons;Seeking+Internship+%7C+Ireland+and+Japan"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&height=50&lines=Software+Developer+%7C+Java+and+Spring+Boot;Full+Stack+%7C+Vue.js+%7C+React+%7C+TypeScript;Competitive+Programming+and+Hackathons;Seeking+Internship+%7C+Ireland+and+Japan"/>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 <table align="center">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 Software Development student at **SENAI** (Technical Course in Systems Development), focused on backend and full stack engineering.
 
@@ -37,9 +37,9 @@ I build web applications, APIs and robotics/embedded projects. I learn fastest b
 I am looking for **internship or remote roles abroad**, especially in **Ireland** and **Japan**, to contribute to international teams and keep growing as an engineer.
 
 </td>
-<td width="40%" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://raw.githubusercontent.com/Anuraghazra/Anuraghazra/master/images/coding.gif" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=2500&pause=800&color=58A6FF&multiline=true&repeat=true&width=400&height=160&lines=const+dev+%3D+%7B;++role%3A+%22Software+Developer%22%2C;++stack%3A+%5B%22Java%22%2C+%22Vue%22%2C+%22TS%22%5D%2C;++target%3A+%22Ireland+%7C+Japan%22%2C;%7D%3B"/>
 
 </td>
 </tr>
@@ -92,15 +92,11 @@ I am looking for **internship or remote roles abroad**, especially in **Ireland*
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo000Yagame&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com/?user=Gustavo000Yagame&theme=radical&hide_border=true&background=0D1117"/>
 
 <br>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gustavo000Yagame&theme=react-dark&hide_border=true&bg_color=0D1117&area=true"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gustavo000Yagame&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 
 <br>
 
@@ -131,8 +127,8 @@ I am looking for **internship or remote roles abroad**, especially in **Ireland*
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn"/>
-
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
